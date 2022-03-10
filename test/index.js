@@ -11,4 +11,3 @@ describe('TEST DE SUMA', () => {
   it('Numero Decimal', () => {
     assert.equal(sum(3.5, 7.1), 10.6);
   });
-});
